@@ -27,13 +27,13 @@
      showgrid="false"
      inkscape:lockguides="false"
      showguides="false"
-     inkscape:zoom="0.21990618"
-     inkscape:cx="2351.0026"
-     inkscape:cy="1257.3544"
+     inkscape:zoom="0.089911281"
+     inkscape:cx="2457.9785"
+     inkscape:cy="3253.2069"
      inkscape:window-width="1830"
      inkscape:window-height="1023"
-     inkscape:window-x="66"
-     inkscape:window-y="67"
+     inkscape:window-x="60"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"><sodipodi:guide
        position="0,889"
@@ -2700,6 +2700,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"><rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect93116"
+       width="1219.2"
+       height="914.39996"
+       x="0"
+       y="0"
+       rx="4"
+       ry="4" /><rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect1374-4-5"
        width="342.89999"
@@ -2738,17 +2746,17 @@
        style="font-size:120px;font-family:Futura;-inkscape-font-specification:Futura;text-align:center;white-space:pre;shape-inside:url(#rect441);shape-padding:24.5417;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"><tspan
          x="559.46798"
          y="293.00045"
-         id="tspan89955"><tspan
+         id="tspan95696"><tspan
            style="font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
-           id="tspan89951">aligned-textgrid</tspan><tspan
+           id="tspan95692">aligned-textgrid</tspan><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 -0.00012207031"
            style="font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible'"
-           id="tspan89953">: - Lightweight access to </tspan></tspan><tspan
+           id="tspan95694">: - Lightweight access to </tspan></tspan><tspan
          x="1128.0266"
          y="443.02456"
-         id="tspan89959"><tspan
+         id="tspan95700"><tspan
            style="font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible'"
-           id="tspan89957">structured phonetic data</tspan></tspan></text><g
+           id="tspan95698">structured phonetic data</tspan></tspan></text><g
        id="g2727"
        transform="translate(13.100267,7.4083337)"><text
          xml:space="preserve"
@@ -2914,50 +2922,50 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Sou;-inkscape-font-specification:Sou;text-align:center;white-space:pre;shape-inside:url(#rect2339);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="294.85732"
          y="901.12779"
-         id="tspan89963"><tspan
+         id="tspan95704"><tspan
    style="font-weight:bold;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';stroke:none"
-   id="tspan89961">Structure </tspan>linguistic data represented in Praat TextGrids</tspan></text><text
+   id="tspan95702">Structure </tspan>linguistic data represented in Praat TextGrids</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,343.83496,3.9747733)"
        id="text2337-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;white-space:pre;shape-inside:url(#rect2339-0);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="304.60841"
          y="899.82877"
-         id="tspan89969"><tspan
+         id="tspan95710"><tspan
            style="font-weight:bold"
-           id="tspan89965">Provide</tspan><tspan
+           id="tspan95706">Provide</tspan><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00012207031"
-           id="tspan89967"> intuitive access to that structure within a python interface</tspan></tspan></text><text
+           id="tspan95708"> intuitive access to that structure within a python interface</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,720.25973,3.9747733)"
        id="text2337-0-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;white-space:pre;shape-inside:url(#rect2339-0-9);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="534.38399"
          y="899.82877"
-         id="tspan89973"><tspan
+         id="tspan95714"><tspan
    style="font-weight:bold"
-   id="tspan89971">Export</tspan> edits to a new TextGrid, or dataframe</tspan></text><text
+   id="tspan95712">Export</tspan> edits to a new TextGrid, or dataframe</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,20.217205,6.7271008)"
        id="text4650"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;white-space:pre;shape-inside:url(#rect4652);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="573.39652"
          y="1170.9516"
-         id="tspan89975">Background</tspan></text><text
+         id="tspan95716">Background</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,405.97322,6.7271008)"
        id="text4650-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;white-space:pre;shape-inside:url(#rect4652-18);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="564.51115"
          y="1170.9516"
-         id="tspan89977">Basic Usage</tspan></text><text
+         id="tspan95718">Basic Usage</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,793.34109,8.1593811)"
        id="text4650-5-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;white-space:pre;shape-inside:url(#rect4652-18-4);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="594.48974"
          y="1170.9516"
-         id="tspan89979">Use Cases</tspan></text><g
+         id="tspan95720">Use Cases</tspan></text><g
        id="g8510"
        transform="translate(-0.6614502,-5.4878204)"><rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
@@ -2982,7 +2990,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;white-space:pre;shape-inside:url(#rect4652-1);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
            x="474.16465"
            y="1170.9516"
-           id="tspan89981">Other approaches</tspan></text></g><rect
+           id="tspan95722">Other approaches</tspan></text></g><rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect1374-4-5-3-7"
        width="342.89999"
@@ -3005,7 +3013,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;white-space:pre;shape-inside:url(#rect4652-1-3);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="378.08901"
          y="1170.9516"
-         id="tspan89983">The aligned-textgrid approach</tspan></text><text
+         id="tspan95724">The aligned-textgrid approach</tspan></text><text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text6676"
@@ -3014,27 +3022,27 @@
        y="0"><tspan
          x="812.70312"
          y="1315.3444"
-         id="tspan89985">Praat Textgrids represent </tspan><tspan
+         id="tspan95726">Praat Textgrids represent </tspan><tspan
          x="812.70312"
          y="1375.3444"
-         id="tspan89987">intervals with starts, ends, and </tspan><tspan
+         id="tspan95728">intervals with starts, ends, and </tspan><tspan
          x="812.70312"
          y="1435.3444"
-         id="tspan89989">labels.
+         id="tspan95730">labels.
 </tspan><tspan
          x="812.70312"
          y="1495.3444"
-         id="tspan89991">
+         id="tspan95732">
 </tspan><tspan
          x="812.70312"
          y="1555.3444"
-         id="tspan89993">Precedence and sub/superset </tspan><tspan
+         id="tspan95734">Precedence and sub/superset </tspan><tspan
          x="812.70312"
          y="1615.3444"
-         id="tspan89995">relationships are not directly </tspan><tspan
+         id="tspan95736">relationships are not directly </tspan><tspan
          x="812.70312"
          y="1675.3444"
-         id="tspan89997">encoded.</tspan></text><g
+         id="tspan95738">encoded.</tspan></text><g
        id="g6689"
        transform="translate(0,-4.9783989)"><image
          width="151.52762"
@@ -9174,41 +9182,41 @@ RK5CYII=
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;white-space:pre;shape-inside:url(#rect8518);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="216"
          y="2414.3659"
-         id="tspan89999">- PolyglotDB: Imports and enriches TextGrids within a </tspan><tspan
+         id="tspan95740">- PolyglotDB: Imports and enriches TextGrids within a </tspan><tspan
          x="216"
          y="2474.3659"
-         id="tspan90001">speech corpus database.
+         id="tspan95742">speech corpus database.
 </tspan><tspan
          x="216"
          y="2534.3659"
-         id="tspan90003">
+         id="tspan95744">
 </tspan><tspan
          x="216"
          y="2594.3659"
-         id="tspan90005">- praatio: Reads multiple Praat file formats into Python </tspan><tspan
+         id="tspan95746">- praatio: Reads multiple Praat file formats into Python </tspan><tspan
          x="216"
          y="2654.3659"
-         id="tspan90007">objects, but doesn't enrich with contextual information </tspan></text><text
+         id="tspan95748">objects, but doesn't enrich with contextual information </tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-0.48259927,-1.6161474)"
        id="text10600"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect10602);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="216"
          y="3009.1784"
-         id="tspan90011"><tspan
+         id="tspan95752"><tspan
    style="font-weight:bold"
-   id="tspan90009">Lightweight: </tspan>Pure python implementation, no need for </tspan><tspan
+   id="tspan95750">Lightweight: </tspan>Pure python implementation, no need for </tspan><tspan
          x="216"
          y="3069.1784"
-         id="tspan90013">database configuration.
+         id="tspan95754">database configuration.
 </tspan><tspan
          x="216"
          y="3129.1784"
-         id="tspan90015">
+         id="tspan95756">
 </tspan><tspan
          x="216"
          y="3168.1256"
-         id="tspan90017">
+         id="tspan95758">
 </tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1.2955128,34.414008)"
@@ -9216,20 +9224,20 @@ RK5CYII=
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect10602-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="216"
          y="3009.1784"
-         id="tspan90021"><tspan
+         id="tspan95762"><tspan
    style="font-weight:bold"
-   id="tspan90019">Flexible: </tspan>Able to process any kind of hierarchical data </tspan><tspan
+   id="tspan95760">Flexible: </tspan>Able to process any kind of hierarchical data </tspan><tspan
          x="216"
          y="3069.1784"
-         id="tspan90023">within a TextGrid, in any transcription system.
+         id="tspan95764">within a TextGrid, in any transcription system.
 </tspan><tspan
          x="216"
          y="3129.1784"
-         id="tspan90025">
+         id="tspan95766">
 </tspan><tspan
          x="216"
          y="3155.8952"
-         id="tspan90027">
+         id="tspan95768">
 </tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-0.72389927,70.444163)"
@@ -9237,12 +9245,12 @@ RK5CYII=
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect10602-7-8);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="216"
          y="3009.1784"
-         id="tspan90031"><tspan
+         id="tspan95772"><tspan
    style="font-weight:bold"
-   id="tspan90029">Importable: </tspan>Can be incorporated into other workflows and </tspan><tspan
+   id="tspan95770">Importable: </tspan>Can be incorporated into other workflows and </tspan><tspan
          x="216"
          y="3069.1784"
-         id="tspan90033">libraries.
+         id="tspan95774">libraries.
 </tspan></text><g
        id="g80095"><g
          id="g67416"
@@ -10147,23 +10155,23 @@ RU5ErkJggg==
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;white-space:pre;shape-inside:url(#rect14237);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
              x="1608"
              y="1409.4575"
-             id="tspan90035">Live on pypi.</tspan></text><text
+             id="tspan95776">Live on pypi.</tspan></text><text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,122.60148,13.713446)"
            id="text14235-0"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;white-space:pre;shape-inside:url(#rect14237-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
              x="1608"
              y="1409.4575"
-             id="tspan90037">Docs:</tspan></text><text
+             id="tspan95778">Docs:</tspan></text><text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,207.62614,10.35794)"
            id="text14235-0-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;white-space:pre;shape-inside:url(#rect14237-7-0);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
              x="1608"
              y="1429.1289"
-             id="tspan90041"><tspan
+             id="tspan95782"><tspan
                style="font-family:'Font Awesome 6 Brands';-inkscape-font-specification:'Font Awesome 6 Brands'"
-               id="tspan90039">github:</tspan></tspan></text><image
+               id="tspan95780">github:</tspan></tspan></text><image
            width="40.824554"
            height="40.824554"
            preserveAspectRatio="none"
@@ -12558,43 +12566,43 @@ cAoMg0y2s1TeI8IAAAAASUVORK5CYII=
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;white-space:pre;shape-inside:url(#rect17045);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
            x="2534.9102"
            y="1565.6126"
-           id="tspan90045">Pass <tspan
+           id="tspan95786">Pass <tspan
    style="font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
-   id="tspan90043">AlignedTextGrid</tspan> a </tspan><tspan
+   id="tspan95784">AlignedTextGrid</tspan> a </tspan><tspan
            x="2534.9102"
            y="1606.3342"
-           id="tspan90049">string or <tspan
+           id="tspan95790">string or <tspan
    style="font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
-   id="tspan90047">pathlib.Path</tspan>.</tspan></text><text
+   id="tspan95788">pathlib.Path</tspan>.</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-0.08473654,58.603948)"
          id="text17043-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;white-space:pre;shape-inside:url(#rect17045-8);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
            x="2534.9102"
            y="1565.6126"
-           id="tspan90053"><tspan
+           id="tspan95794"><tspan
    style="font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
-   id="tspan90051">custom_classes()</tspan> creates </tspan><tspan
+   id="tspan95792">custom_classes()</tspan> creates </tspan><tspan
            x="2534.9102"
            y="1606.3342"
-           id="tspan90057"><tspan
+           id="tspan95798"><tspan
    style="font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
-   id="tspan90055">SequenceInterval </tspan>classes. </tspan><tspan
+   id="tspan95796">SequenceInterval </tspan>classes. </tspan><tspan
            x="2534.9102"
            y="1647.0557"
-           id="tspan90063"><tspan
+           id="tspan95804"><tspan
    style="font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
-   id="tspan90059">Word</tspan> can only contain <tspan
+   id="tspan95800">Word</tspan> can only contain <tspan
    style="font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
-   id="tspan90061">Phone</tspan>, </tspan><tspan
+   id="tspan95802">Phone</tspan>, </tspan><tspan
            x="2534.9102"
            y="1687.7773"
-           id="tspan90067">and <tspan
+           id="tspan95808">and <tspan
    style="font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
-   id="tspan90065">Phone</tspan> can only be </tspan><tspan
+   id="tspan95806">Phone</tspan> can only be </tspan><tspan
            x="2534.9102"
            y="1727.7773"
-           id="tspan90069">contained in Word</tspan></text><text
+           id="tspan95810">contained in Word</tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          x="426.23608"
@@ -12636,27 +12644,27 @@ cAoMg0y2s1TeI8IAAAAASUVORK5CYII=
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;white-space:pre;shape-inside:url(#rect23585);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.00032;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
              x="1610.9316"
              y="1922.5501"
-             id="tspan90075"><tspan
+             id="tspan95816"><tspan
    style="font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
-   id="tspan90071">AlignedTextGrid</tspan>s contain per-speaker <tspan
+   id="tspan95812">AlignedTextGrid</tspan>s contain per-speaker <tspan
    style="font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
-   id="tspan90073">TierGroup</tspan>s.
+   id="tspan95814">TierGroup</tspan>s.
 </tspan><tspan
              x="1610.9316"
              y="1963.2717"
-             id="tspan90081"><tspan
+             id="tspan95822"><tspan
    style="font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
-   id="tspan90077">TierGroup</tspan>s contain <tspan
+   id="tspan95818">TierGroup</tspan>s contain <tspan
    style="font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
-   id="tspan90079">SequenceTier</tspan>s.
+   id="tspan95820">SequenceTier</tspan>s.
 </tspan><tspan
              x="1610.9316"
              y="2003.9932"
-             id="tspan90087"><tspan
+             id="tspan95828"><tspan
    style="font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
-   id="tspan90083">SequenceTier</tspan>s contain <tspan
+   id="tspan95824">SequenceTier</tspan>s contain <tspan
    style="font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
-   id="tspan90085">SequenceInterval</tspan>s.</tspan></text><g
+   id="tspan95826">SequenceInterval</tspan>s.</tspan></text><g
            inkscape:label="Layer 1"
            id="layer1-4"
            transform="matrix(1.0592159,0,0,1.0592159,671.12662,525.2141)"><rect
@@ -13179,7 +13187,7 @@ cAoMg0y2s1TeI8IAAAAASUVORK5CYII=
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;white-space:pre;shape-inside:url(#rect23585-9);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
                x="1610.9316"
                y="1935.9928"
-               id="tspan90089">Named accessors can be chained together.</tspan></text><image
+               id="tspan95830">Named accessors can be chained together.</tspan></text><image
              width="185.04045"
              height="108.01405"
              preserveAspectRatio="none"
@@ -18540,13 +18548,13 @@ CBAgQIAAAQL/D9VqiU5d2jklAAAAAElFTkSuQmCC
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;white-space:pre;shape-inside:url(#rect63945);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.47402;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
            x="2312.6914"
            y="2914.3874"
-           id="tspan90091">Relationship reference is </tspan><tspan
+           id="tspan95832">Relationship reference is </tspan><tspan
            x="2312.6914"
            y="2974.3874"
-           id="tspan90093">maintained through iteration and </tspan><tspan
+           id="tspan95834">maintained through iteration and </tspan><tspan
            x="2312.6914"
            y="3034.3874"
-           id="tspan90095">assignment.</tspan></text><text
+           id="tspan95836">assignment.</tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          x="426.23608"
@@ -18563,16 +18571,16 @@ CBAgQIAAAQL/D9VqiU5d2jklAAAAAElFTkSuQmCC
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;white-space:pre;shape-inside:url(#rect67451);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="3139.8184"
          y="1397.9262"
-         id="tspan90097">Some forced aligners produce multiple sequential silence intervals. </tspan></text><text
+         id="tspan95838">Some forced aligners produce multiple sequential silence intervals. </tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-0.19745454,137.75131)"
        id="text67449-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;white-space:pre;shape-inside:url(#rect67451-8);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="3139.8184"
          y="1398.7922"
-         id="tspan90101">The vowel in <tspan
+         id="tspan95842">The vowel in <tspan
    style="font-style:italic"
-   id="tspan90099">the</tspan> can vary between [ə] and [i]. </tspan></text><g
+   id="tspan95840">the</tspan> can vary between [ə] and [i]. </tspan></text><g
        id="g81375"
        transform="translate(0.31456557,-5.2114762)"><text
          xml:space="preserve"
@@ -18591,7 +18599,7 @@ CBAgQIAAAQL/D9VqiU5d2jklAAAAAElFTkSuQmCC
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;white-space:pre;shape-inside:url(#rect67451-8-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
            x="3139.8184"
            y="1397.9262"
-           id="tspan90103">Export to a polars DataFrame or save as a new TextGrid</tspan></text></g><image
+           id="tspan95844">Export to a polars DataFrame or save as a new TextGrid</tspan></text></g><image
        width="264.57379"
        height="100.76959"
        preserveAspectRatio="none"
@@ -29978,21 +29986,216 @@ AElFTkSuQmCC
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;white-space:pre;shape-inside:url(#rect81526);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="3144"
          y="3137.7799"
-         id="tspan90105">- Interleaving new Tier Classes!
+         id="tspan95846">- Interleaving new Tier Classes!
 </tspan><tspan
          x="3144"
          y="3197.7799"
-         id="tspan90107">- Point tiers are also supported!
+         id="tspan95848">- Point tiers are also supported!
 </tspan><tspan
          x="3144"
          y="3257.7799"
-         id="tspan90109">- Arbitrary feature setting!
+         id="tspan95850">- Arbitrary feature setting!
 </tspan><tspan
          x="3144"
          y="3317.7799"
-         id="tspan90111">- Unique IDs for every object!
+         id="tspan95852">- Unique IDs for every object!
 </tspan><tspan
          x="3144"
          y="3377.7799"
-         id="tspan90113">
-</tspan></text></g></svg>
+         id="tspan95854">
+</tspan></text><image
+       width="89.104637"
+       height="89.104637"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiwAAAIsCAYAAADRd/LpAAABdWlDQ1BrQ0dDb2xvclNwYWNlRGlz
+cGxheVAzAAAokXWQvUvDUBTFT6tS0DqIDh0cMolD1NIKdnFoKxRFMFQFq1OafgltfCQpUnETVyn4
+H1jBWXCwiFRwcXAQRAcR3Zw6KbhoeN6XVNoi3sfl/Ticc7lcwBtQGSv2AijplpFMxKS11Lrke4OH
+nlOqZrKooiwK/v276/PR9d5PiFlNu3YQ2U9cl84ul3aeAlN//V3Vn8maGv3f1EGNGRbgkYmVbYsJ
+3iUeMWgp4qrgvMvHgtMunzuelWSc+JZY0gpqhrhJLKc79HwHl4plrbWD2N6f1VeXxRzqUcxhEyYY
+ilBRgQQF4X/8044/ji1yV2BQLo8CLMpESRETssTz0KFhEjJxCEHqkLhz634PrfvJbW3vFZhtcM4v
+2tpCAzidoZPV29p4BBgaAG7qTDVUR+qh9uZywPsJMJgChu8os2HmwiF3e38M6Hvh/GMM8B0CdpXz
+ryPO7RqFn4Er/QcXKWq8UwZBywAAAERlWElmTU0AKgAAAAgAAgESAAMAAAABAAEAAIdpAAQAAAAB
+AAAAJgAAAAAAAqACAAQAAAABAAACLKADAAQAAAABAAACLAAAAAB+AriFAAABnWlUWHRYTUw6Y29t
+LmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0
+az0iWE1QIENvcmUgNi4wLjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMu
+b3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJk
+ZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4
+aWYvMS4wLyI+CiAgICAgICAgIDxleGlmOlBpeGVsWERpbWVuc2lvbj41NTY8L2V4aWY6UGl4ZWxY
+RGltZW5zaW9uPgogICAgICAgICA8ZXhpZjpQaXhlbFlEaW1lbnNpb24+NTU2PC9leGlmOlBpeGVs
+WURpbWVuc2lvbj4KICAgICAgPC9yZGY6RGVzY3JpcHRpb24+CiAgIDwvcmRmOlJERj4KPC94Onht
+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
+9QkQIECAAIG3AgLLWyILCBAgQIAAgWoBgaV6AuoTIECAAAECbwUElrdEFhAgQIAAAQLVAgJL9QTU
+J0CAAAECBN4KCCxviSwgQIAAAQIEqgUEluoJqE+AAAECBAi8FRBY3hJZQIAAAQIECFQLCCzVE1Cf
+AAECBAgQeCsgsLwlsoAAAQIECBCoFhBYqiegPgECBAgQIPBW4PF2xcUXHMdx8Q7/bq+19veHHZ+k
++ztKvFyysv3zYpX9V9Z+OdTOD3d/e5X3T2uv/vY6n+gtl6WzW/3t+Iblls/apQgQIECAwL0EBJZ7
+zdNtCBAgQIDALQUElluO1aUIECBAgMC9BASWe83TbQgQIECAwC0FBJZbjtWlCBAgQIDAvQQElnvN
+020IECBAgMAtBQSWW47VpQgQIECAwL0EBJZ7zdNtCBAgQIDALQUElluO1aUIECBAgMC9BASWe83T
+bQgQIECAwC0FBJZbjtWlCBAgQIDAvQQElnvN020IECBAgMAtBQSWW47VpQgQIECAwL0EBJZ7zdNt
+CBAgQIDALQUElluO1aUIECBAgMC9BNrx85NcqbWWbI/3hu3/q+w/7T3GCw+otHu2vrpfyB9tT2eX
+2qf1o8sXv53qu69s9+y92i99+4l/eve09+r6vmFJXo+9BAgQIECAwCkCAsspzIoQIECAAAECiYDA
+kujZS4AAAQIECJwiILCcwqwIAQIECBAgkAgILImevQQIECBAgMApAgLLKcyKECBAgAABAomAwJLo
+2UuAAAECBAicIiCwnMKsCAECBAgQIJAICCyJnr0ECBAgQIDAKQICyynMihAgQIAAAQKJgMCS6NlL
+gAABAgQInCIgsJzCrAgBAgQIECCQCAgsiZ69BAgQIECAwCkCAsspzIoQIECAAAECiYDAkujZS4AA
+AQIECJwi0I6fn1MqTSrSWpt08v2PTUef2u9cP7179eusnn16/7T/pH46+7T3tH5y9+fe6v7T+un9
+k/3p7KrvnvbvG5bk9dhLgAABAgQInCIgsJzCrAgBAgQIECCQCAgsiZ69BAgQIECAwCkCAsspzIoQ
+IECAAAECiYDAkujZS4AAAQIECJwiILCcwqwIAQIECBAgkAgILImevQQIECBAgMApAgLLKcyKECBA
+gAABAomAwJLo2UuAAAECBAicIiCwnMKsCAECBAgQIJAICCyJnr0ECBAgQIDAKQICyynMihAgQIAA
+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
+IECAAIHpAgLLdGIFCBAgQIAAgVRAYEkF7SdAgAABAgSmCwgs04kVIECAAAECBFIBgSUVtJ8AAQIE
+CBCYLiCwTCdWgAABAgQIEEgFBJZU0H4CBAgQIEBguoDAMp1YAQIECBAgQCAVEFhSQfsJECBAgACB
+6QICy3RiBQgQIECAAIFUQGBJBe0nQIAAAQIEpgsILNOJFSBAgAABAgRSAYElFbSfAAECBAgQmC4g
+sEwnVoAAAQIECBBIBQSWVNB+AgQIECBAYLrAY3qFNwWO43iz4vXHrbXXCy78aXXvqX1Km96/uv/k
+/undk9oj9qb26f3T+iMMqs6otquuX+X+Wze9/+85Fb9X/7vxDUvFq1GTAAECBAgQ+EhAYPmIy2IC
+BAgQIECgQkBgqVBXkwABAgQIEPhIQGD5iMtiAgQIECBAoEJAYKlQV5MAAQIECBD4SEBg+YjLYgIE
+CBAgQKBCQGCpUFeTAAECBAgQ+EhAYPmIy2ICBAgQIECgQkBgqVBXkwABAgQIEPhIQGD5iMtiAgQI
+ECBAoEJAYKlQV5MAAQIECBD4SEBg+YjLYgIECBAgQKBCQGCpUFeTAAECBAgQ+EhAYPmIy2ICBAgQ
+IECgQkBgqVBXkwABAgQIEPhIoB0/Px/tsJjA/wu01lh8KZD+2VXbp/1/yXaLbWZ3izG6RIGAb1gK
+0JUkQIAAAQIEPhMQWD7zspoAAQIECBAoEBBYCtCVJECAAAECBD4TEFg+87KaAAECBAgQKBAQWArQ
+lSRAgAABAgQ+ExBYPvOymgABAgQIECgQEFgK0JUkQIAAAQIEPhMQWD7zspoAAQIECBAoEBBYCtCV
+JECAAAECBD4TEFg+87KaAAECBAgQKBAQWArQlSRAgAABAgQ+ExBYPvOymgABAgQIECgQEFgK0JUk
+QIAAAQIEPhMQWD7zspoAAQIECBAoEBBYCtCVJECAAAECBD4TeHy2/H9Xt9b+9z/6L0sIHMdR2mda
+P3171fUr8avvvnP96run787fXSq47/707fuGZd+34+YECBAgQGAZAYFlmVFplAABAgQI7CsgsOw7
+ezcnQIAAAQLLCAgsy4xKowQIECBAYF8BgWXf2bs5AQIECBBYRkBgWWZUGiVAgAABAvsKCCz7zt7N
+CRAgQIDAMgICyzKj0igBAgQIENhXQGDZd/ZuToAAAQIElhEQWJYZlUYJECBAgMC+AgLLvrN3cwIE
+CBAgsIyAwLLMqDRKgAABAgT2FRBY9p29mxMgQIAAgWUEBJZlRqVRAgQIECCwr4DAsu/s3ZwAAQIE
+CCwj8Kju9DiO6haWrd9aW7b3EY2nb2dlv53v/nw76f1HvL9dz1jdfvX+K99d9f8zfcNSOX21CRAg
+QIAAgS4BgaWLySICBAgQIECgUkBgqdRXmwABAgQIEOgSEFi6mCwiQIAAAQIEKgUElkp9tQkQIECA
+AIEuAYGli8kiAgQIECBAoFJAYKnUV5sAAQIECBDoEhBYupgsIkCAAAECBCoFBJZKfbUJECBAgACB
+LgGBpYvJIgIECBAgQKBSQGCp1FebAAECBAgQ6BIQWLqYLCJAgAABAgQqBQSWSn21CRAgQIAAgS4B
+gaWLySICBAgQIECgUkBgqdRXmwABAgQIEOgSeHStuvCi1tqFu3vd2nEcrxfc/NN0dqlfuj/pP9n7
+fBZp7+nTqq5f7Zfcv7r36vrp26ven/pV9p+828q+f2v7huVXwm8CBAgQIEDgsgICy2VHozECBAgQ
+IEDgV0Bg+ZXwmwABAgQIELisgMBy2dFojAABAgQIEPgVEFh+JfwmQIAAAQIELisgsFx2NBojQIAA
+AQIEfgUEll8JvwkQIECAAIHLCggslx2NxggQIECAAIFfAYHlV8JvAgQIECBA4LICAstlR6MxAgQI
+ECBA4FdAYPmV8JsAAQIECBC4rIDActnRaIwAAQIECBD4FRBYfiX8JkCAAAECBC4rILBcdjQaI0CA
+AAECBH4FBJZfCb8JECBAgACBywo8LtuZxghMFmitRRWO44j2J5vT3pPaz71p/dQu3Z/2n/it3PsV
+Zp/Y27u2gG9Y1p6f7gkQIECAwBYCAssWY3ZJAgQIECCwtoDAsvb8dE+AAAECBLYQEFi2GLNLEiBA
+gACBtQUElrXnp3sCBAgQILCFgMCyxZhdkgABAgQIrC0gsKw9P90TIECAAIEtBASWLcbskgQIECBA
+YG0BgWXt+emeAAECBAhsISCwbDFmlyRAgAABAmsLCCxrz0/3BAgQIEBgCwGBZYsxuyQBAgQIEFhb
+QGBZe366J0CAAAECWwgILFuM2SUJECBAgMDaAo+129f9ygLHcUTtt9ai/dX1k+bT3pPaI/ams0t7
+qPRL717Z+9M97T+dnf37CviGZd/ZuzkBAgQIEFhGQGBZZlQaJUCAAAEC+woILPvO3s0JECBAgMAy
+AgLLMqPSKAECBAgQ2FdAYNl39m5OgAABAgSWERBYlhmVRgkQIECAwL4CAsu+s3dzAgQIECCwjIDA
+ssyoNEqAAAECBPYVEFj2nb2bEyBAgACBZQQElmVGpVECBAgQILCvgMCy7+zdnAABAgQILCMgsCwz
+Ko0SIECAAIF9BQSWfWfv5gQIECBAYBkBgWWZUWmUAAECBAjsKyCw7Dt7NydAgAABAssIPJbp9I9G
+j+P44xP/ebZAat9am93iy/Or679s7s2HK/f+5mpdH6dvr6vIpEVp7+ns0/qTWJY5ll/dqHzDUmev
+MgECBAgQINApILB0QllGgAABAgQI1AkILHX2KhMgQIAAAQKdAgJLJ5RlBAgQIECAQJ2AwFJnrzIB
+AgQIECDQKSCwdEJZRoAAAQIECNQJCCx19ioTIECAAAECnQICSyeUZQQIECBAgECdgMBSZ68yAQIE
+CBAg0CkgsHRCWUaAAAECBAjUCQgsdfYqEyBAgAABAp0CAksnlGUECBAgQIBAnYDAUmevMgECBAgQ
+INApILB0QllGgAABAgQI1AkILHX2KhMgQIAAAQKdAo/OddOWtdamne3gawscx3HtBid2l777aru0
+/4m0XUdX9r/67Kr77xrwi0WVs3/Rlo86BHzD0oFkCQECBAgQIFArILDU+qtOgAABAgQIdAgILB1I
+lhAgQIAAAQK1AgJLrb/qBAgQIECAQIeAwNKBZAkBAgQIECBQKyCw1PqrToAAAQIECHQICCwdSJYQ
+IECAAAECtQICS62/6gQIECBAgECHgMDSgWQJAQIECBAgUCsgsNT6q06AAAECBAh0CAgsHUiWECBA
+gAABArUCAkutv+oECBAgQIBAh4DA0oFkCQECBAgQIFArILDU+qtOgAABAgQIdAgILB1IlhAgQIAA
+AQK1Au34+altQXUCBAgQIECAwGsB37C89vEpAQIECBAgcAEBgeUCQ9ACAQIECBAg8FpAYHnt41MC
+BAgQIEDgAgICywWGoAUCBAgQIEDgtYDA8trHpwQIECBAgMAFBASWCwxBCwQIECBAgMBrAYHltY9P
+CRAgQIAAgQsICCwXGIIWCBAgQIAAgdcCAstrH58SIECAAAECFxAQWC4wBC0QIECAAAECrwUEltc+
+PiVAgAABAgQuICCwXGAIWiBAgAABAgReCwgsr318SoAAAQIECFxAQGC5wBC0QIAAAQIECLwWEFhe
++/iUAAECBAgQuIDAfwHUwSJv1swuJgAAAABJRU5ErkJggg==
+"
+       id="image94890"
+       x="1069.7982"
+       y="796.52588" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="1082.88"
+       y="796.14557"
+       id="text94896"><tspan
+         sodipodi:role="line"
+         id="tspan94894"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.79375"
+         x="1082.88"
+         y="796.14557">References</tspan></text></g></svg>
