@@ -1,0 +1,17 @@
+---
+title: "aligned-textgrid: - Lightweight access to structured phonetic data"
+author: 
+  - name: Josef Fruehwald
+    affiliation: University of Kentucky
+  - name: Christian Brickhouse
+    affiliation: Stanford University
+date: 2024-06-27
+lightbox: true
+bibliography: references.bib
+nocite: |
+  @gorman2019, @mcauliffe2017, @praat, @mahrt2023, @rosenfelder2024
+---
+
+[SCiL 2024](https://sites.uci.edu/scil2024/)
+
+![](scil_poster.png){fig-align="center" width="80%"}
