@@ -15,3 +15,11 @@ nocite: |
 [SCiL 2024](https://sites.uci.edu/scil2024/)
 
 ![](scil_poster.png){fig-align="center" width="80%"}
+
+## Links
+
+-   [aligned-textgrid on pypi](https://pypi.org/project/aligned-textgrid/)
+
+-   [Documentation](https://forced-alignment-and-vowel-extraction.github.io/alignedTextGrid/)
+
+-   [Github Repo](https://github.com/Forced-Alignment-and-Vowel-Extraction/alignedTextGrid/)
