@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "aligned-textgrid: - Lightweight access to structured phonetic data",
+    "section": "",
+    "text": "SCiL 2024\n\n\n\n\n\n\n\n\n\nReferences\n\nBoersma, Paul, and David Weenink. 2024. “Praat: Doing Phonetics by Computer (Version 5.0.35) [Computer Program] Version 6.4.04.” http://www.praat.org/.\n\n\nGorman, Kyle. 2019. TextGrid: Praat TextGrid Manipulation.\n\n\nMahrt, Tim. 2023. Praatio: A Library for Working with Praat, Textgrids, Time Aligned Audio Transcripts, and Audio Files. https://github.com/timmahrt/praatIO.\n\n\nMcAuliffe, Michael, Elias Stengel-Eskin, Michaela Socolof, and Morgan Sonderegger. 2017. “Interspeech 2017.” In, 3887–91. ISCA. https://doi.org/10.21437/Interspeech.2017-1390.\n\n\nRosenfelder, Ingrid, Josef Fruehwald, Keelan Evanini, Scott Seyfarth, Christian Brickhouse, Kyle Gorman, Hillary Prichard, and Jiahong Yuan. 2024. FAVE: Forced Alignment and Vowel Extraction. [object Object]. https://doi.org/10.5281/ZENODO.593309."
+  }
+]
