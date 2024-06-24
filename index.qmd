@@ -14,7 +14,7 @@ nocite: |
 
 [SCiL 2024](https://sites.uci.edu/scil2024/)
 
-![](scil_poster.png){fig-align="center" width="80%"}
+![](scil_poster.png){fig-align="center" width="100%"}
 
 ## Links
 
